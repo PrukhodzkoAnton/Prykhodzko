@@ -1,6 +1,6 @@
 ## Prykhodzko Anton
 
-### My Expiriense
+### My Experiense
 I have done one project on ASP.NET MVC . This is my own WEB Site, where I used different technologies such as Entity Framework, ADO.NET, Bootstrap, MS SQL Server 2017  & etc. I managed with project in time. Although I had only three weeks and it was my first project. The customer is satisfied.
 This is a great feeling when you understand that your customer is satisfied. This feeling makes me even more motivated, so I continue working hard and I'm trying to improve and develop my professional skills. 
 
@@ -14,7 +14,7 @@ CSS, HTML, C#, SQL, LINQ, XML, Bootstrap, Dapper, Entity Framework, .Net
 
 ```
 ### About me
-When I was studying at University for the first time in my life I had a possibility to learn something about programming, but it was just basic knowledge. It was rather interesting for me. After University I worked in my sphere for a while, and i understood, that this sphere wasn't really interesting for me. I believe that you can be successful if you do what you love. So i decided to start learning programming. First, of course, I had to save money for my education, but when I began to studying. I realised that I want to do and to study. I will do my best this is what to have this job.
+When I was studying at University for the first time in my life I had a possibility to learn something about programming, but it was just basic knowledge. It was rather interesting for me. After University I worked in my sphere for a while, and i understood, that this sphere wasn't really interesting for me. I believe that you can be successful if you do what you love. So i decided to start learning programming. First, of course, I had to save money for my education, but when I began to study I realised that I want to do and to study. I will do my best to have this job.
 
 ### In free time
 In my free time I don't like staying at home. I usually go out with my friends. My favourite pastime at weekends is volleyball. I also like football,reading, learning languages(English), visiting new places.
