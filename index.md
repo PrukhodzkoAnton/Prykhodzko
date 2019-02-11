@@ -1,37 +1,20 @@
-## Welcome to Pry Pages
+## Prykhodzko Anton
 
-You can use the [editor on GitHub](https://github.com/PrukhodzkoAnton/Prykhodzko/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### My Expiriense
+I have done one project on ASP.NET MVC . This is my own WEB Site, where I used different technologies such as Entity Framework, ADO.NET, Bootstrap, MS SQL Server 2017  & etc. I managed with project in time. Although I had only three weeks and it was my first project. The customer is satisfied.
+This is a great feeling when you understand that your customer is satisfied. This feeling makes me even more motivated, so I continue working hard and I'm trying to improve and develop my professional skills. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Education
 ```markdown
-Syntax highlighted code block
+- (BSUIR)Belarusian State University of Informatics and Radioelectronics(2007-2012)
 
-# Header 1
-## Header 2
-### Header 3
+Programming skills
 
-- Bulleted
-- List
+CSS, HTML, C#, SQL, LINQ, XML, Bootstrap, Dapper, Entity Framework, .Net
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### About me
+When I was studying at University for the first time in my life I had a possibility to learn something about programming, but it was just basic knowledge. It was rather interesting for me. After University I worked in my sphere for a while, and i understood, that this sphere wasn't really interesting for me. I believe that you can be successful if you do what you love. So i decided to start learning programming. First, of course, I had to save money for my education, but when I began to studying. I realised that I want to do and to study. I will do my best this is what to have this job.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrukhodzkoAnton/Prykhodzko/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### In free time
+In my free time I don't like staying at home. I usually go out with my friends. My favourite pastime at weekends is volleyball. I also like football,reading, learning languages(English), visiting new places.
