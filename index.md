@@ -28,6 +28,10 @@ Padawans Tatks
 4. PadawansTask4: https://github.com/PrukhodzkoAnton/PadawansTask4
 5. PadawansTask5: https://github.com/PrukhodzkoAnton/padawanstask5
 6. PadawansTask6: https://github.com/PrukhodzkoAnton/PadawansTask6
-7. PadawansTask13: https://github.com/PrukhodzkoAnton/PadawansTask13
-8.
+7. PadawansTask7: https://github.com/PrukhodzkoAnton/PadawansTask7
+8. PadawansTask8: https://github.com/PrukhodzkoAnton/PadawansTask8
 9.
+10.
+11.
+12.
+13. PadawansTask13: https://github.com/PrukhodzkoAnton/PadawansTask13
