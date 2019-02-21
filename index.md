@@ -21,7 +21,7 @@ In my free time I don't like staying at home. I usually go out with my friends. 
 
 My first site: http://tutor-english.azurewebsites.net/
 
-Padawans Tatks
+###Padawans Tatks
 1. PadawansTask1: https://github.com/PrukhodzkoAnton/PadawansTask1
 2. PadawansTask2: https://github.com/PrukhodzkoAnton/PadawansTask2
 3. PadawansTask3: https://github.com/PrukhodzkoAnton/PadawansTask3
@@ -35,3 +35,5 @@ Padawans Tatks
 11. PadawansTask11: https://github.com/PrukhodzkoAnton/PadawansTask11
 12. PadawansTask12: https://github.com/PrukhodzkoAnton/PadawansTask12
 13. PadawansTask13: https://github.com/PrukhodzkoAnton/PadawansTask13
+
+###Codewars(Kata): https://www.codewars.com/users/PrukhodzkoAnton
